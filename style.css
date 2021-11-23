@@ -1,0 +1,128 @@
+body{
+  margin: 0;
+}
+
+.first-container{
+  width:100%;
+
+  background-color: #eaf6f6;
+  color: #66bfbf;
+  text-align: center;
+  position: relative;
+  padding: 50px 0;
+  font-size: 1.5rem;
+}
+
+.name{
+  font-family: 'Comforter Brush', cursive;
+}
+h2, h3{
+  color: #66bfbf;
+}
+
+.cloud-above{
+  width: 10%;
+  position: absolute;
+  right: 300px;
+  top:5px;
+}
+
+.cloud-below{
+  width:10%;
+  position: absolute;
+  left: 300px;
+
+}
+.mount{
+  padding-top: 100px;
+  width:50%;
+}
+.second-container{
+  text-align: center;
+}
+
+.profile-image{
+  width:10%;
+  border-radius: 100%;
+
+}
+hr{
+  border-style: none;
+  width: 40px;
+  height: 0;
+  border-bottom: 6px dotted;
+  color: gray;
+
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.code-image{
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+  background-color: red;
+  border-radius: 100%;
+
+}
+.skill{
+  padding-bottom: 50px;
+}
+
+.mls-image{
+  width: 20%;
+  float: right;
+  margin-left: 10px;
+  background-color: gray;
+  border-radius: 75%;
+}
+.touch{
+text-align: center;width: 40%;
+margin: 20px auto;
+
+}
+
+.h2-touch{
+  padding: 20px;
+  font-size: 40px;
+
+}
+
+.h3-touch{
+  padding-bottom: 10px;
+}
+.p-touch{
+  color:#40514e;
+}
+
+.btn{
+  background-color: #66bfbf;
+  padding: 5px;
+  margin-bottom: 20px;
+  border-radius: 10%;
+  color: white;
+  font-size: 20px;
+}
+.bottom{
+  background-color: #66bfbf;
+  padding:50px 0 20px;
+  text-align: center;
+
+
+}
+a{
+  text-decoration:none;
+color: white;
+  margin: 10px 20px;
+
+
+}
+a:hover{
+  color: yellow;
+}
+.desc{
+  margin-top: 30px;
+}
